@@ -1,0 +1,24 @@
+<empleados>
+    <empleado numero="001">
+      <nombre>Roberto</nombre>
+      <apellido>Bueno</apellido>
+      <fecha_nacimiento>11-07-2005</fecha_nacimiento>
+      <puesto>Gerente de Proyectos</puesto>
+      <departamento>Desarrollo</departamento>
+    </empleado>
+    <empleado numero="002">
+      <nombre>Ernesto</nombre>
+      <apellido>Rodriguez</apellido>
+      <fecha_nacimiento>31-08-2000</fecha_nacimiento>
+      <puesto>Desarrollador  de aplicaciones</puesto>
+      <departamento>Desarrollo</departamento>
+    </empleado>
+    <empleado numero="003">
+      <nombre>Pedro</nombre>
+      <apellido>Martinez</apellido>
+      <fecha_nacimiento>22-01-1998</fecha_nacimiento>
+      <puesto>Programador</puesto>
+      <departamento>Desarrollo</departamento>
+    </empleado>
+    
+  </empleados>

@@ -1,0 +1,30 @@
+{
+    "empleados": {
+       "empleado": [
+          {
+             "nombre": "Roberto",
+             "apellido": "Bueno",
+             "fecha_nacimiento": "11-07-2005",
+             "puesto": "Gerente de Proyectos",
+             "departamento": "Desarrollo",
+             "_numero": "001"
+          },
+          {
+             "nombre": "Ernesto",
+             "apellido": "Rodriguez",
+             "fecha_nacimiento": "31-08-2000",
+             "puesto": "Desarrolador de aplicacion",
+             "departamento": "Desarrollo",
+             "_numero": "002"
+          },
+          {
+             "nombre": "Pedro",
+             "apellido": "Martinez",
+             "fecha_nacimiento": "22-01-1998",
+             "puesto": "Programador",
+             "departamento": "Desarrollo",
+             "_numero": "003"
+          }
+       ]
+    }
+ }
